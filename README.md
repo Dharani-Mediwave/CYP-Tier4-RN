@@ -17,6 +17,9 @@ CYP Tier4 is mobile application using react-native
 # Clone this repository
 $ git clone git@github.com:Dharani-Mediwave/CYP-Tier4-RN.git
 
+# Go into the repository
+$ cd CYP-Tier4
+
 # Install dependencies
 $ npm install
 
